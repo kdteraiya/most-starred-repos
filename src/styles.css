@@ -1,0 +1,85 @@
+.App {
+  font-family: sans-serif;
+  width: 80%;
+  margin: auto;
+}
+.App p {
+  text-align: center;
+  margin: 5%;
+}
+.repoDropdown {
+  border: 6px solid transparent;
+  background: #f5f5f5;
+  margin-top: 10px;
+}
+.header {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.row {
+  display: flex;
+  align-items: center;
+  column-gap: 16px;
+  background: #f7f7f7;
+  margin-bottom: 20px;
+  min-height:100px;
+}
+.avtarContainer img {
+  width: 100px;
+}
+.infoContainer {
+  max-width: 70%;
+}
+.infoContainer h5 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.infoContainer h6 {
+  display: inline-block;
+  margin-left: 10px;
+}
+.btnContainer {
+  position: absolute;
+  right: 10%;
+}
+
+.btnContainer button {
+  background: #f7f7f7;
+  border: none;
+}
+.myArrow {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  margin-right: 20px;
+}
+.chartDropdown {
+  float: right;
+  border: 6px solid transparent;
+  background: #f7f7f7;
+}
+
+
+@media only screen and (max-width: 600px) {
+	.infoContainer h3 {
+	max-width:80%;
+	}
+	.infoContainer h5 {
+	max-width:80%;
+	}
+}
+
+@media only screen and (max-width: 400px) {
+	.infoContainer h3 {
+	max-width:60%;
+	}
+	.infoContainer h5 {
+	max-width:60%;
+	}
+}
