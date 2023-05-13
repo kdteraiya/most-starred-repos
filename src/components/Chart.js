@@ -1,3 +1,5 @@
+import Highcharts from "highcharts";
+import HighchartsReact from "highcharts-react-official";
 import { useState } from "react";
 import AdditionChart from "./AdditionChart";
 import CommitChart from "./CommitChart";
