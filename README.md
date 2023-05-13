@@ -1,5 +1,5 @@
-# ❤️ Most-Starred-Repo 🚀
-Welcome to `Most-Starred-Repo` uses `ReactJs`, a repository created for hands-on `practical project`.
+# ❤️ Most-Starred-Repos 🚀
+Welcome to `Most-Starred-Repos` uses `ReactJs`, a repository created for hands-on `practical project`.
 
 - [🚀 Live Project Link 😍](https://most-starred-git-repos.netlify.app/)
 
@@ -12,7 +12,7 @@ Before getting started with the project, you should have a basic understanding o
 This repository is `open-source and contributions` are always welcome! If you have a solution to a problem or a new exercise that you would like to share, feel free to `submit a pull request`. Your contribution will help make this repository a valuable resource for the `ReactJS community`.
 
 # Conclusion
-We hope that you find `Most-Starred-Repo` useful in your `Interview preparation` to become a better `ReactJS developer`. Happy coding!
+We hope that you find `Most-Starred-Repos` useful in your `Interview preparation` to become a better `ReactJS developer`. Happy coding!
 
 ## 🔥 Clone this Repository
 You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
@@ -23,7 +23,7 @@ You need to write the following commands on the terminal screen(in vscode) so th
 Go to the project directory
 
 ```bash
-  cd most-starred-repo
+  cd most-starred-repos
 ```
 Install dependencies
 ```bash
